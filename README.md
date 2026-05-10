@@ -1,8 +1,4 @@
-Chatbot inteligente para una agencia de autos ficticia que responde preguntas sobre financiamiento, mensualidades y catálogo de vehículos a partir de un documento PDF.
- 
-Proyecto desarrollado para la materia de **Finanzas** — FES Acatlán, UNAM.
- 
----
+Chatbot inteligente para una agencia de autos ficticia que responde preguntas sobre financiamiento, mensualidades y catálogo de vehículos a partir de un documento PDF
  
 ## ¿Qué hace?
  
